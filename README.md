@@ -38,4 +38,4 @@
 
 ```bash
 git clone https://github.com/mi-T-T/EdiableMushroom.git
-cd mushroom-web-app
+cd EdiableMushroom
